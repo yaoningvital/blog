@@ -36,6 +36,12 @@ my blogs
 3 | [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | ` git `
 
 
+## 微信开发
+
+序号 | 名称 | 标签
+--- | --- | ---
+1 | [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信开发 `
+
 ## 其他
 
 序号 | 名称 | 标签
