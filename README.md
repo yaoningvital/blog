@@ -41,6 +41,8 @@ my blogs
 序号 | 名称 | 标签
 --- | --- | ---
 1 | [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信开发 `
+2 | [微信嵌入页面V1.2.2-debug总结](https://github.com/yaoningvital/blog/issues/20) | `微信开发 `
+
 
 ## 其他
 
