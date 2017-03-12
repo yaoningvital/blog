@@ -5,7 +5,7 @@ my blogs
 
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [翻译：Mastering Web Application Development with AngularJS](https://github.com/yaoningvital/blog/issues/1) | ` AngularJs `
+1 | [翻译：Mastering Web Application Development with AngularJS](https://github.com/yaoningvital/blog/issues/20) | ` AngularJs `
 2 | [翻译：switching-to-Angular2](https://github.com/yaoningvital/blog/issues/2) | ` Angular2 `
 
 
