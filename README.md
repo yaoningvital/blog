@@ -1,12 +1,18 @@
 # blog
 my blogs
 
+## JavaScript原生
+序号 | 名称 | 标签
+--- | --- | ---
+1 | [《JavaScript高级程序设计》学习笔记](https://github.com/yaoningvital/blog/issues/22) | ` JavaScript原生 `
+2 | [《JavaScript权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/23) | ` JavaScript原生 `
+
 ## AngularJs
 
 序号 | 名称 | 标签
 --- | --- | ---
 1 | [翻译：Mastering Web Application Development with AngularJS](https://github.com/yaoningvital/blog/issues/20) | ` AngularJs `
-2 | [翻译：switching-to-Angular2](https://github.com/yaoningvital/blog/issues/2) | ` Angular2 `
+2 | [翻译：switching-to-Angular2](https://github.com/yaoningvital/blog/issues/21) | ` Angular2 `
 
 
 ## JS的库
