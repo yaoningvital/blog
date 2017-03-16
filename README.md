@@ -13,6 +13,8 @@ my blogs
 --- | --- | ---
 1 | [翻译：Mastering Web Application Development with AngularJS](https://github.com/yaoningvital/blog/issues/20) | ` AngularJs `
 2 | [翻译：switching-to-Angular2](https://github.com/yaoningvital/blog/issues/21) | ` Angular2 `
+3 | [《精通AngularJS》学习笔记](https://github.com/yaoningvital/blog/issues/24) | ` AngularJs `
+4 | [《迈向AngularJS 2》学习笔记](https://github.com/yaoningvital/blog/issues/25) | ` Angular2 `
 
 
 ## JS的库
