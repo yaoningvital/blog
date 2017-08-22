@@ -65,4 +65,4 @@ my blogs
 序号 | 名称 | 标签
 --- | --- | ---
 1 | [翻译：https://github.com/ftlabs/fastclick](https://github.com/yaoningvital/blog/issues/15) | ` fastclick `
-2 | 
+2 | [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
