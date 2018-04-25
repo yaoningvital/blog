@@ -63,6 +63,7 @@ my blogs
 --- | --- | ---
 1 | [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信开发 `
 2 | [微信嵌入页面V1.2.2-debug总结](https://github.com/yaoningvital/blog/issues/19) | `微信开发 `
+3 | [微信公众号支付和H5支付开发总结](https://github.com/yaoningvital/blog/issues/28) | `微信开发 `
 
 
 ## 其他
