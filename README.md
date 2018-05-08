@@ -1,6 +1,11 @@
 # blog
 my blogs
 
+## Vue.js
+序号 | 名称 | 标签
+--- | --- | ---
+1 | [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/28) | ` Vue `
+
 ## Node.js
 序号 | 名称 | 标签
 --- | --- | ---
