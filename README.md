@@ -33,7 +33,7 @@
 ## NVM
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [windows上安装nvm](https://github.com/yaoningvital/blog/issues/29) | ` Node `
+1 | [windows上安装nvm](https://github.com/yaoningvital/blog/issues/29) | ` nvm `
 
 ## 微信公众号开发
 序号 | 名称 | 标签
