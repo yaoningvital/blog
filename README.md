@@ -18,12 +18,12 @@
 ## Vue.js
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/28) | ` Vue `
+1 | [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
 
 ## React.js
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [React.js学习笔记](https://github.com/yaoningvital/blog/issues/28) | ` Vue `
+1 | [React.js学习笔记](https://github.com/yaoningvital/blog/issues/30) | ` React `
 
 ## Node.js
 序号 | 名称 | 标签
@@ -33,7 +33,7 @@
 ## NVM
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [windows上安装nvm](https://github.com/yaoningvital/blog/issues/29) | ` nvm `
+1 | [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | ` nvm `
 
 ## 微信公众号开发
 序号 | 名称 | 标签
