@@ -30,6 +30,11 @@
 --- | --- | ---
 1 | [《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
+## NVM
+序号 | 名称 | 标签
+--- | --- | ---
+1 | [windows上安装nvm](https://github.com/yaoningvital/blog/issues/29) | ` Node `
+
 ## 微信公众号开发
 序号 | 名称 | 标签
 --- | --- | ---
