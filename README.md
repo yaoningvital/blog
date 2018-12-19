@@ -30,6 +30,11 @@
 --- | --- | ---
 1 | [《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
+## NPM
+序号 | 名称 | 标签
+--- | --- | ---
+1 | [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) | ` npm `
+
 ## NVM
 序号 | 名称 | 标签
 --- | --- | ---
