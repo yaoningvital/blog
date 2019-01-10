@@ -4,7 +4,7 @@
 ## JavaScript原生
 序号 | 名称 | 标签
 --- | --- | ---
-1 |  | ` JavaScript `
+
 
 ## Vue.js
 序号 | 名称 | 标签
