@@ -12,6 +12,7 @@
  --- | ---
  [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
  [React.js学习笔记](https://github.com/yaoningvital/blog/issues/30) | ` React `
+ [uni-app](https://github.com/yaoningvital/blog/issues/30) | ` uni-app ` `跨平台应用前端框架`
 
 
 ## Node.js
@@ -43,6 +44,3 @@
   [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 
 
-## 代码管理工具类
- 名称 | 标签
- --- | ---
