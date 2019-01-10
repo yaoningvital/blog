@@ -1,20 +1,6 @@
 # blog
 前端学习笔记
 
-## JavaScript原生
-序号 | 名称 | 标签
---- | --- | ---
-1 | [《JavaScript高级程序设计》学习笔记](https://github.com/yaoningvital/blog/issues/22) | ` JavaScript原生 `
-2 | [《JavaScript权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/23) | ` JavaScript原生 `
-
-## AngularJs
-序号 | 名称 | 标签
---- | --- | ---
-1 | [翻译：Mastering Web Application Development with AngularJS](https://github.com/yaoningvital/blog/issues/20) | ` AngularJs `
-2 | [翻译：switching-to-Angular2](https://github.com/yaoningvital/blog/issues/21) | ` Angular2 `
-3 | [《精通AngularJS》学习笔记](https://github.com/yaoningvital/blog/issues/24) | ` AngularJs `
-4 | [《迈向AngularJS 2》学习笔记](https://github.com/yaoningvital/blog/issues/25) | ` Angular2 `
-
 ## Vue.js
 序号 | 名称 | 标签
 --- | --- | ---
@@ -60,12 +46,9 @@
 ## 工具类
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [EsLint](https://github.com/yaoningvital/blog/issues/4) | ` EsLint ` ` JS语法检查 `
-2 | [在webstorm中的.vue文件中支持.scss语法](https://github.com/yaoningvital/blog/issues/16) | ` webstorm ` ` vue ` ` scss `
-3 | [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | ` git `
+1 | [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | ` git `
 
 ## 其他
 序号 | 名称 | 标签
 --- | --- | ---
-1 | [翻译：https://github.com/ftlabs/fastclick](https://github.com/yaoningvital/blog/issues/15) | ` fastclick `
-2 | [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
+1 | [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
