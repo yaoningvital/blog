@@ -2,15 +2,15 @@
 前端学习笔记
 
 ## JavaScript原生
-序号 | 名称 | 标签
---- | --- | ---
+ 名称 | 标签
+ --- | ---
 
 
 ## 前端框架
-序号 | 名称 | 标签
---- | --- | ---
-1 | [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
-1 | [React.js学习笔记](https://github.com/yaoningvital/blog/issues/30) | ` React `
+ 名称 | 标签
+ --- | ---
+ [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
+ [React.js学习笔记](https://github.com/yaoningvital/blog/issues/30) | ` React `
 
 ## React.js
 序号 | 名称 | 标签
