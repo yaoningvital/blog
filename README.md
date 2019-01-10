@@ -12,7 +12,7 @@
  --- | ---
  [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
  [React.js学习笔记](https://github.com/yaoningvital/blog/issues/30) | ` React `
- [uni-app](https://github.com/yaoningvital/blog/issues/30) | ` uni-app ` `跨平台应用前端框架`
+ [uni-app](https://github.com/yaoningvital/blog/issues/34) | ` uni-app ` `跨平台应用前端框架`
 
 
 ## Node.js
