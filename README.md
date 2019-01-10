@@ -35,6 +35,10 @@
  --- | ---
  [对支付宝小程序开发的总结](https://github.com/yaoningvital/blog/issues/18) | `支付宝小程序开发 `
 
+## H5跨平台
+ 名称 | 标签
+ --- | ---
+ [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/18) | `H5跨平台 ` `H5` `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android`
 
 ## 管理工具
  名称 | 标签
