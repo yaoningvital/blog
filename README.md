@@ -12,7 +12,7 @@
    名称 | 标签
  --- | ---
  [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
- [在Vue的项目中创建自己的组件，上传到npm，并下载使用的步骤](https://github.com/yaoningvital/blog/issues/29) | ` Vue ` `@Vue/cli 3`
+ [在Vue的项目中创建自己的组件，上传到npm，并下载使用的步骤](https://github.com/yaoningvital/blog/issues/35) | ` Vue ` `@Vue/cli 3`
  
  
   ## 2.2 React
