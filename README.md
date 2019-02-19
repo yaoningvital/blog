@@ -18,8 +18,9 @@
  ### 2.1.2 Vue的UI组件库
  #### 2.1.2.1 Element
    名称 | 标签
- --- | ---
- [element源码分析](https://github.com/yaoningvital/blog/issues/36) | ` Vue ` `UI组件库` `element`
+ --- | --- | --- 
+ element源码分析 | package.json  scripts| [build:file 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
+ element源码分析 | package.json  scripts| [build:theme 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
  
  #### 2.1.2.2 Vux
    名称 | 标签
