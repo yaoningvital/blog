@@ -17,10 +17,12 @@
  
  ### 2.1.2 Vue的UI组件库
  #### 2.1.2.1 Element
-   名称 | 标签 | 内容
- --- | --- | --- 
- element源码分析 | package.json  scripts| [build:file 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
- element源码分析 | package.json  scripts| [build:theme 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
+   名称 | 标签 | 内容 | 内容
+ --- | --- | --- | ---
+ element源码分析 | package.json  scripts| build:file | [node build/bin/iconInit.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
+ element源码分析 | package.json  scripts| build:file | [node build/bin/build-entry.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
+ element源码分析 | package.json  scripts| build:file | [node build/bin/i18n.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/38) 
+ element源码分析 | package.json  scripts| build:file | [node build/bin/version.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/39) 
  
  #### 2.1.2.2 Vux
    名称 | 标签
