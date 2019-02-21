@@ -5,6 +5,7 @@
  名称 | 标签
  --- | ---
  [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
+ [“财务看板”项目中Promise的应用](https://github.com/yaoningvital/blog/issues/40) | promise
  
 
 # 2、前端框架
