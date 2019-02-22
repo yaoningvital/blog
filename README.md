@@ -24,6 +24,9 @@
  element源码分析 | package.json  scripts| build:file | [node build/bin/build-entry.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
  element源码分析 | package.json  scripts| build:file | [node build/bin/i18n.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/38) 
  element源码分析 | package.json  scripts| build:file | [node build/bin/version.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/39) 
+ element源码分析 | package.json  scripts| build:theme | [node build/bin/gen-cssfile 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/41) 
+ element源码分析 | package.json  scripts| build:theme | [gulp build --gulpfile packages/theme-chalk/gulpfile.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/42) 
+ element源码分析 | package.json  scripts| build:theme | [cp-cli packages/theme-chalk/lib lib/theme-chalk 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/43) 
  
  #### 2.1.2.2 Vux
    名称 | 标签
