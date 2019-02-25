@@ -28,6 +28,7 @@
  element源码分析 | package.json  scripts| build:theme | [gulp build --gulpfile packages/theme-chalk/gulpfile.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/42) 
  element源码分析 | package.json  scripts| build:theme | [cp-cli packages/theme-chalk/lib lib/theme-chalk 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/43) 
  element源码分析 | package.json  scripts| build:utils | [cross-env BABEL_ENV=utils babel src --out-dir lib --ignore src/index.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/45) 
+ element源码分析 | package.json  scripts| build:umd | [node build/bin/build-locale.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/46) 
  
  #### 2.1.2.2 Vux
    名称 | 标签
