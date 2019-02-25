@@ -119,3 +119,7 @@
   [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 
 
+# 6、构建工具
+ 名称 | 标签
+ --- | ---
+ [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
