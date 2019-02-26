@@ -125,3 +125,9 @@
  名称 | 标签
  --- | ---
  [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
+
+# 7、JavaScript compiler
+ 名称 | 标签
+ --- | ---
+ [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
+
