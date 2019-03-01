@@ -125,6 +125,7 @@
  名称 | 标签
  --- | ---
  [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
+ [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 
 # 7、JavaScript compiler
  名称 | 标签
