@@ -32,7 +32,7 @@
  element源码分析 | package.json  scripts| build:umd | [node build/bin/build-locale.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/46) 
  element源码分析 | package.json  scripts| clean | [rimraf lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/51) 
  element源码分析 | package.json  scripts| clean | [rimraf packages/\*/lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/52) 
- element源码分析 | package.json  scripts| clean | [rimraf test/\*\*\/coverage](https://github.com/yaoningvital/blog/issues/53) 
+ element源码分析 | package.json  scripts| clean | [rimraf test/\*\*\/coverage 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/53) 
  
  
  #### 2.1.2.2 Vux
