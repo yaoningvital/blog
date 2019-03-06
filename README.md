@@ -33,6 +33,9 @@
  element源码分析 | package.json  scripts| clean | [rimraf lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/51) 
  element源码分析 | package.json  scripts| clean | [rimraf packages/\*/lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/52) 
  element源码分析 | package.json  scripts| clean | [rimraf test/\*\*\/coverage 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/53) 
+ element源码分析 | package.json  scripts| deploy:build | [npm run build:file 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/54) 
+ element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=production webpack --config build/webpack.demo.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/55) 
+ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
  
  
  #### 2.1.2.2 Vux
