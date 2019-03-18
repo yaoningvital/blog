@@ -47,7 +47,7 @@
   ## 2.2 React
    名称 | 标签
  --- | ---
- [react项目创建命令](https://github.com/yaoningvital/blog/issues/30) | ` React `
+ [搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React `
  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React `
  
  
