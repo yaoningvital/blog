@@ -50,7 +50,8 @@
  [搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React `
  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React `
  [什么是高阶组件HOC](https://github.com/yaoningvital/blog/issues/58) | ` React `
- 
+ [Code Splitting](https://github.com/yaoningvital/blog/issues/59) | ` React `
+
  
   ## 2.3 Angular
    名称 | 标签
