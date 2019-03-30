@@ -53,6 +53,8 @@
  [Code Splitting](https://github.com/yaoningvital/blog/issues/59) | ` React `
  [Context](https://github.com/yaoningvital/blog/issues/60) | ` React `
  [Error Boundaries](https://github.com/yaoningvital/blog/issues/61) | ` React `
+ [Forwarding Refs](https://github.com/yaoningvital/blog/issues/62) | ` React `
+
 
  
   ## 2.3 Angular
