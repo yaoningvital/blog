@@ -57,9 +57,7 @@
  [Fragments](https://github.com/yaoningvital/blog/issues/64) | ` React `
  [Higher-Order Components](https://github.com/yaoningvital/blog/issues/58) | ` React `
  [Integrating with Other Libraries](https://github.com/yaoningvital/blog/issues/65) | ` React `
-
-
-
+ [JSX In Depth](https://github.com/yaoningvital/blog/issues/66) | ` React `
 
  
   ## 2.3 Angular
