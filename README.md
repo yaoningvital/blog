@@ -7,7 +7,7 @@
 [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
 [“财务看板”项目中Promise的应用](https://github.com/yaoningvital/blog/issues/40) | promise
 [几种模块化规范（AMD、CMD、CommonJS、UMD、ES6的Module语法）的介绍](https://github.com/yaoningvital/blog/issues/50) | JS模块化
-[关于 prototype、\_\_proto\_\_、constructor及class的继承](https://github.com/yaoningvital/blog/issues/67) | RegExp
+[关于 prototype、\_\_proto\_\_、constructor及class的继承](https://github.com/yaoningvital/blog/issues/67) | 原型链
 [RegExp.prototype.test()](https://github.com/yaoningvital/blog/issues/68) | RegExp
 
 # 2、前端框架
