@@ -46,6 +46,8 @@
  
  
   ## 2.2 React
+  
+  ### 2.2.1 React
    名称 | 标签
  --- | ---
  [搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React `
@@ -59,6 +61,11 @@
  [Higher-Order Components](https://github.com/yaoningvital/blog/issues/58) | ` React `
  [Integrating with Other Libraries](https://github.com/yaoningvital/blog/issues/65) | ` React `
  [JSX In Depth](https://github.com/yaoningvital/blog/issues/66) | ` React `
+
+  ### 2.2.2 React的UI组件库
+    名称 | 标签
+ --- | ---
+ [配置antd mobile和antd按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
 
  
   ## 2.3 Angular
