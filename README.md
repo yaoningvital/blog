@@ -112,5 +112,5 @@
  名称 | 标签
  --- | ---
  [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
- [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel`
+ [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
 
