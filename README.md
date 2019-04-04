@@ -62,7 +62,7 @@
   ### 2.2.2 React的UI组件库
    名称 | 标签
  --- | ---
- [配置antd mobile和antd按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
+ [在react中配置UI库'antd'和'antd-mobile'的按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
 
  
 # 3、前端应用平台
