@@ -38,27 +38,21 @@
  element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=production webpack --config build/webpack.demo.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/55) 
  element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
  
- #### 2.1.2.2 Vux
-   名称 | 标签
- --- | ---
- [vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux`
+#### 2.1.2.2 Vux
+名称 | 标签
+--- | ---
+[vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux`
  
- ## 2.2 React
-  ### 2.2.1 React
-   名称 | 标签
- --- | ---
- [搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React `
- [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React `
- [Forwarding Refs](https://github.com/yaoningvital/blog/issues/62) | ` React `
- [关于 ref 和 forward ref 的理解](https://github.com/yaoningvital/blog/issues/63) | ` React `
- [Code Splitting](https://github.com/yaoningvital/blog/issues/59) | ` React `
- [Context](https://github.com/yaoningvital/blog/issues/60) | ` React `
- [Error Boundaries](https://github.com/yaoningvital/blog/issues/61) | ` React `
- [Fragments](https://github.com/yaoningvital/blog/issues/64) | ` React `
- [Higher-Order Components](https://github.com/yaoningvital/blog/issues/58) | ` React `
- [Integrating with Other Libraries](https://github.com/yaoningvital/blog/issues/65) | ` React `
- [JSX In Depth](https://github.com/yaoningvital/blog/issues/66) | ` React `
- [Optimizing Performance](https://github.com/yaoningvital/blog/issues/70) | ` React `
+## 2.2 React
+### 2.2.1 React
+名称 | 标签
+--- | ---
+[搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React `
+[Forwarding Refs](https://github.com/yaoningvital/blog/issues/62) | ` React ` |[关于 ref 和 forward ref 的理解](https://github.com/yaoningvital/blog/issues/63) | ` React `
+[Code Splitting](https://github.com/yaoningvital/blog/issues/59) | ` React ` | [Context](https://github.com/yaoningvital/blog/issues/60) | ` React `
+[Error Boundaries](https://github.com/yaoningvital/blog/issues/61) | ` React ` | [Fragments](https://github.com/yaoningvital/blog/issues/64) | ` React `
+[Higher-Order Components](https://github.com/yaoningvital/blog/issues/58) | ` React ` | [Integrating with Other Libraries](https://github.com/yaoningvital/blog/issues/65) | ` React `
+[JSX In Depth](https://github.com/yaoningvital/blog/issues/66) | ` React ` | [Optimizing Performance](https://github.com/yaoningvital/blog/issues/70) | ` React `
 
   ### 2.2.2 React的UI组件库
    名称 | 标签
