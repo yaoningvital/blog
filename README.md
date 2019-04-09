@@ -1,5 +1,4 @@
-# blog
-前端学习笔记
+# blog-前端学习笔记
 
 # 1、JavaScript原生
  名称 | 标签
