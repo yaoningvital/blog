@@ -82,10 +82,14 @@
 
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
+&nbsp; | `React Redux ` |  &nbsp; | `React Redux `
+
 
 ## 3.2 Flux
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
+&nbsp; | ` Flux ` |  &nbsp; | ` Flux `
+
 
  
 # 4、前端应用平台
