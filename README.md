@@ -68,7 +68,7 @@
  [在react中配置UI库'antd'和'antd-mobile'的按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
 
 
-# 3 状态管理
+# 3、 状态管理
 ## 3.1 Redux
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
