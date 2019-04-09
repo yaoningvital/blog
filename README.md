@@ -67,8 +67,14 @@
  --- | ---
  [在react中配置UI库'antd'和'antd-mobile'的按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
 
+
+# 3 状态管理
+## 3.1 Redux
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
+[搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` Redux ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` Redux `
  
-# 3、前端应用平台
+# 4、前端应用平台
 名称 | 标签
 --- | ---
 [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信公众号开发 `
@@ -79,26 +85,26 @@
 [uni-app](https://github.com/yaoningvital/blog/issues/34) | ` uni-app ` `跨平台应用前端框架`
 [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/33) | `H5跨平台`  `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android` `H5`
 
-# 4、Node.js
+# 5、Node.js
  名称 | 标签
  --- | ---
  [《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
-# 5、管理工具
+# 6、管理工具
  名称 | 标签
  --- | ---
  [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) |`包管理工具` ` npm `
  [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
  [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 
-# 6、构建工具
+# 7、构建工具
  名称 | 标签
  --- | ---
  [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
  [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 
-# 7、JavaScript compiler
-## 7.1 Babel
+# 8、JavaScript compiler
+## 8.1 Babel
  名称 | 标签
  --- | ---
  [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
