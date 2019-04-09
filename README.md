@@ -68,10 +68,10 @@
 
 **Redux**
 
-名称 | 标签 | 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- | --- | --- | --- | --- 
-[Redux Basic Example](https://github.com/yaoningvital/blog/issues/83) | ` Redux ` |  [Motivation](https://github.com/yaoningvital/blog/issues/84) | ` Redux ` | [Core Concepts](https://github.com/yaoningvital/blog/issues/85) | ` Redux ` |  [Three Principles](https://github.com/yaoningvital/blog/issues/86) | ` Redux `
-[Basic Tutorial](https://github.com/yaoningvital/blog/issues/87) | ` Redux ` |  [Three Principles](https://github.com/yaoningvital/blog/issues/86) | ` Redux ` |
+名称 | 标签 | 名称 | 标签 | 名称 | 标签  
+--- | --- | --- | --- | --- | --- 
+[Redux Basic Example](https://github.com/yaoningvital/blog/issues/83) | ` Redux ` |  [Motivation](https://github.com/yaoningvital/blog/issues/84) | ` Redux ` | [Core Concepts](https://github.com/yaoningvital/blog/issues/85) | ` Redux ` 
+[Three Principles](https://github.com/yaoningvital/blog/issues/86) | ` Redux ` | [Basic Tutorial](https://github.com/yaoningvital/blog/issues/87) | ` Redux ` |  [Three Principles](https://github.com/yaoningvital/blog/issues/86) | ` Redux ` |
 
 **React Redux**
 
