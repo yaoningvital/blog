@@ -73,6 +73,10 @@
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 [Redux Basic Example](https://github.com/yaoningvital/blog/issues/83) | ` Redux ` |  [Motivation](https://github.com/yaoningvital/blog/issues/84) | ` Redux `
+[Core Concepts](https://github.com/yaoningvital/blog/issues/85) | ` Redux ` |  [Motivation](https://github.com/yaoningvital/blog/issues/84) | ` Redux `
+
+
+
  
 # 4、前端应用平台
 名称 | 标签
