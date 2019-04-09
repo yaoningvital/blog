@@ -47,20 +47,16 @@
  
 ## 2.2 React
 ### 2.2.1 React
-名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- 
-[搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React `
-[Forwarding Refs](https://github.com/yaoningvital/blog/issues/62) | ` React ` |[关于 ref 和 forward ref 的理解](https://github.com/yaoningvital/blog/issues/63) | ` React `
-[Code Splitting](https://github.com/yaoningvital/blog/issues/59) | ` React ` | [Context](https://github.com/yaoningvital/blog/issues/60) | ` React `
-[Error Boundaries](https://github.com/yaoningvital/blog/issues/61) | ` React ` | [Fragments](https://github.com/yaoningvital/blog/issues/64) | ` React `
-[Higher-Order Components](https://github.com/yaoningvital/blog/issues/58) | ` React ` | [Integrating with Other Libraries](https://github.com/yaoningvital/blog/issues/65) | ` React `
-[JSX In Depth](https://github.com/yaoningvital/blog/issues/66) | ` React ` | [Optimizing Performance](https://github.com/yaoningvital/blog/issues/70) | ` React `
-[Portals](https://github.com/yaoningvital/blog/issues/71) | ` React ` | [React Without JSX](https://github.com/yaoningvital/blog/issues/72) | ` React ` 
-[Reconciliation](https://github.com/yaoningvital/blog/issues/73) | ` React ` | [Refs and the DOM](https://github.com/yaoningvital/blog/issues/74) | ` React `
-[Render Props](https://github.com/yaoningvital/blog/issues/75) | ` React ` | [Static Type Checking](https://github.com/yaoningvital/blog/issues/76) | ` React ` 
-[Strict Mode](https://github.com/yaoningvital/blog/issues/77) | ` React ` | [Typechecking With PropTypes](https://github.com/yaoningvital/blog/issues/78) | ` React ` 
-[Uncontrolled Components](https://github.com/yaoningvital/blog/issues/79) | ` React ` | [The Component Lifecycle](https://github.com/yaoningvital/blog/issues/81) | ` React ` 
-[Hooks](https://github.com/yaoningvital/blog/issues/82) | ` React ` | 
+名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React ` | [Forwarding Refs](https://github.com/yaoningvital/blog/issues/62) | ` React ` 
+|[关于 ref 和 forward ref 的理解](https://github.com/yaoningvital/blog/issues/63) | ` React ` | [Code Splitting](https://github.com/yaoningvital/blog/issues/59) | ` React ` | [Context](https://github.com/yaoningvital/blog/issues/60) | ` React `
+[Error Boundaries](https://github.com/yaoningvital/blog/issues/61) | ` React ` | [Fragments](https://github.com/yaoningvital/blog/issues/64) | ` React ` | [Higher-Order Components](https://github.com/yaoningvital/blog/issues/58) | ` React ` 
+[Integrating with Other Libraries](https://github.com/yaoningvital/blog/issues/65) | ` React ` | [JSX In Depth](https://github.com/yaoningvital/blog/issues/66) | ` React ` | [Optimizing Performance](https://github.com/yaoningvital/blog/issues/70) | ` React `
+[Portals](https://github.com/yaoningvital/blog/issues/71) | ` React ` | [React Without JSX](https://github.com/yaoningvital/blog/issues/72) | ` React ` | [Reconciliation](https://github.com/yaoningvital/blog/issues/73) | ` React ` 
+[Refs and the DOM](https://github.com/yaoningvital/blog/issues/74) | ` React ` | [Render Props](https://github.com/yaoningvital/blog/issues/75) | ` React ` | [Static Type Checking](https://github.com/yaoningvital/blog/issues/76) | ` React ` 
+[Strict Mode](https://github.com/yaoningvital/blog/issues/77) | ` React ` | [Typechecking With PropTypes](https://github.com/yaoningvital/blog/issues/78) | ` React ` | [Uncontrolled Components](https://github.com/yaoningvital/blog/issues/79) | ` React ` 
+[The Component Lifecycle](https://github.com/yaoningvital/blog/issues/81) | ` React ` | [Hooks](https://github.com/yaoningvital/blog/issues/82) | ` React ` | 
 
   ### 2.2.2 React的UI组件库
    名称 | 标签
