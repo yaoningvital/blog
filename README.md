@@ -70,12 +70,20 @@
 
 # 3、 状态管理
 ## 3.1 Redux
+
+**Redux**
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 [Redux Basic Example](https://github.com/yaoningvital/blog/issues/83) | ` Redux ` |  [Motivation](https://github.com/yaoningvital/blog/issues/84) | ` Redux `
 [Core Concepts](https://github.com/yaoningvital/blog/issues/85) | ` Redux ` |  [Three Principles](https://github.com/yaoningvital/blog/issues/86) | ` Redux `
 
+**React Redux**
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
 
+## 3.2 Flux
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
 
  
 # 4、前端应用平台
