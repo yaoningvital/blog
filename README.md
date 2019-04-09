@@ -59,13 +59,7 @@
 [Reconciliation](https://github.com/yaoningvital/blog/issues/73) | ` React ` | [Refs and the DOM](https://github.com/yaoningvital/blog/issues/74) | ` React `
 [Render Props](https://github.com/yaoningvital/blog/issues/75) | ` React ` | [Static Type Checking](https://github.com/yaoningvital/blog/issues/76) | ` React ` 
 [Strict Mode](https://github.com/yaoningvital/blog/issues/77) | ` React ` | [Typechecking With PropTypes](https://github.com/yaoningvital/blog/issues/78) | ` React ` 
-[Uncontrolled Components](https://github.com/yaoningvital/blog/issues/79) | ` React ` | 
-
-
-
-
-
-
+[Uncontrolled Components](https://github.com/yaoningvital/blog/issues/79) | ` React ` | [The Component Lifecycle](https://github.com/yaoningvital/blog/issues/81) | ` React ` 
 
   ### 2.2.2 React的UI组件库
    名称 | 标签
