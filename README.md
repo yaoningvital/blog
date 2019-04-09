@@ -72,7 +72,7 @@
 ## 3.1 Redux
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
-[搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` Redux ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` Redux `
+[Redux Basic Example](https://github.com/yaoningvital/blog/issues/83) | ` Redux ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` Redux `
  
 # 4、前端应用平台
 名称 | 标签
