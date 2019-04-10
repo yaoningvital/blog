@@ -73,7 +73,7 @@
 [Redux Basic Example](https://github.com/yaoningvital/blog/issues/83) | ` Redux ` |  [Motivation](https://github.com/yaoningvital/blog/issues/84) | ` Redux ` | [Core Concepts](https://github.com/yaoningvital/blog/issues/85) | ` Redux ` 
 [Three Principles](https://github.com/yaoningvital/blog/issues/86) | ` Redux ` | [Basic Tutorial](https://github.com/yaoningvital/blog/issues/87) | ` Redux ` |  [Usage with React](https://github.com/yaoningvital/blog/issues/88) | ` Redux ` 
 [Example: Todo List](https://github.com/yaoningvital/blog/issues/89) | ` Redux ` | [Advanced Tutorial - Async Actions](https://github.com/yaoningvital/blog/issues/90) | ` Redux ` |  [Advanced Tutorial - Async Flow](https://github.com/yaoningvital/blog/issues/91) | ` Redux ` 
-[Advanced Tutorial - MiddleWare](https://github.com/yaoningvital/blog/issues/92) | ` Redux ` | [](https://github.com/yaoningvital/blog/issues/90) | ` Redux ` |  [](https://github.com/yaoningvital/blog/issues/91) | ` Redux ` 
+[Advanced Tutorial - Middleware](https://github.com/yaoningvital/blog/issues/92) | ` Redux ` | [](https://github.com/yaoningvital/blog/issues/90) | ` Redux ` |  [](https://github.com/yaoningvital/blog/issues/91) | ` Redux ` 
 
 
 
