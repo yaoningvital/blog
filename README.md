@@ -90,8 +90,15 @@
 &nbsp; | ` Flux ` |  &nbsp; | ` Flux `
 
 
+# 4、 路由
+## 4.1 React Router
+
+名称 | 标签 | 名称 | 标签 | 名称 | 标签  
+--- | --- | --- | --- | --- | --- 
+[](https://github.com/yaoningvital/blog/issues/83) | ` React Router ` |  [](https://github.com/yaoningvital/blog/issues/84) | ` React Router ` | [](https://github.com/yaoningvital/blog/issues/85) | ` React Router ` 
+
  
-# 4、前端应用平台
+# 5、前端应用平台
 名称 | 标签
 --- | ---
 [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信公众号开发 `
@@ -102,26 +109,26 @@
 [uni-app](https://github.com/yaoningvital/blog/issues/34) | ` uni-app ` `跨平台应用前端框架`
 [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/33) | `H5跨平台`  `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android` `H5`
 
-# 5、Node.js
+# 6、Node.js
  名称 | 标签
  --- | ---
  [《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
-# 6、管理工具
+# 7、管理工具
  名称 | 标签
  --- | ---
  [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) |`包管理工具` ` npm `
  [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
  [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 
-# 7、构建工具
+# 8、构建工具
  名称 | 标签
  --- | ---
  [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
  [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 
-# 8、JavaScript compiler
-## 8.1 Babel
+# 9、JavaScript compiler
+## 9.1 Babel
  名称 | 标签
  --- | ---
  [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
