@@ -1,6 +1,11 @@
 # blog-前端学习笔记
 
-# 1、JavaScript原生
+# 1、CSS
+**flex**
+名称 | 标签
+ --- | ---
+
+# 2、JavaScript原生
  名称 | 标签
  --- | ---
 [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
@@ -11,16 +16,16 @@
 [Web Components](https://github.com/yaoningvital/blog/issues/80) | `Web Components`
 
 
-# 2、UI Framework
-  ## 2.1 Vue
-  ### 2.1.1 Vue
+# 3、UI Framework
+  ## 3.1 Vue
+  ### 3.1.1 Vue
    名称 | 标签
  --- | ---
  [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
  [在Vue的项目中创建自己的组件，上传到npm，并下载使用的步骤](https://github.com/yaoningvital/blog/issues/35) | ` Vue ` `@Vue/cli 3`
  
- ### 2.1.2 Vue的UI组件库
- #### 2.1.2.1 Element
+ ### 3.1.2 Vue的UI组件库
+ #### 3.1.2.1 Element
    名称 | 文件 | 脚本 | 内容
  --- | --- | --- | ---
  element源码分析 | package.json  scripts| build:file | [node build/bin/iconInit.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
@@ -39,13 +44,13 @@
  element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=production webpack --config build/webpack.demo.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/55) 
  element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
  
-#### 2.1.2.2 Vux
+#### 3.1.2.2 Vux
 名称 | 标签
 --- | ---
 [vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux`
  
-## 2.2 React
-### 2.2.1 React
+## 3.2 React
+### 3.2.1 React
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
 [搭建react项目脚手架命令](https://github.com/yaoningvital/blog/issues/30) | ` React ` |  [Refs 和 Forwarding Refs](https://github.com/yaoningvital/blog/issues/57) | ` React ` | [Forwarding Refs](https://github.com/yaoningvital/blog/issues/62) | ` React ` 
@@ -57,14 +62,14 @@
 [Strict Mode](https://github.com/yaoningvital/blog/issues/77) | ` React ` | [Typechecking With PropTypes](https://github.com/yaoningvital/blog/issues/78) | ` React ` | [Uncontrolled Components](https://github.com/yaoningvital/blog/issues/79) | ` React ` 
 [The Component Lifecycle](https://github.com/yaoningvital/blog/issues/81) | ` React ` | [Hooks](https://github.com/yaoningvital/blog/issues/82) | ` React ` | 
 
-  ### 2.2.2 React的UI组件库
-   名称 | 标签
- --- | ---
- [在react中配置UI库'antd'和'antd-mobile'的按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
+### 3.2.2 React的UI组件库
+名称 | 标签
+--- | ---
+[在react中配置UI库'antd'和'antd-mobile'的按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
 
 
-# 3、 状态管理
-## 3.1 Redux
+# 4、 状态管理
+## 4.1 Redux
 
 **Redux**
 
@@ -84,21 +89,21 @@
 [Why Use React Redux?](https://github.com/yaoningvital/blog/issues/93) | `React Redux ` |  &nbsp; | `React Redux `
 
 
-## 3.2 Flux
+## 4.2 Flux
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 &nbsp; | ` Flux ` |  &nbsp; | ` Flux `
 
 
-# 4、 路由
-## 4.1 React Router
+# 5、 路由
+## 5.1 React Router
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签  
 --- | --- | --- | --- | --- | --- 
 [](https://github.com/yaoningvital/blog/issues/83) | ` React Router ` |  [](https://github.com/yaoningvital/blog/issues/84) | ` React Router ` | [](https://github.com/yaoningvital/blog/issues/85) | ` React Router ` 
 
  
-# 5、前端应用平台
+# 6、前端应用平台
 名称 | 标签
 --- | ---
 [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信公众号开发 `
@@ -109,32 +114,32 @@
 [uni-app](https://github.com/yaoningvital/blog/issues/34) | ` uni-app ` `跨平台应用前端框架`
 [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/33) | `H5跨平台`  `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android` `H5`
 
-# 6、Node.js
+# 7、Node.js
  名称 | 标签
  --- | ---
  [《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
-# 7、管理工具
+# 8、管理工具
  名称 | 标签
  --- | ---
  [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) |`包管理工具` ` npm `
  [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
  [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 
-# 8、构建工具
+# 9、构建工具
  名称 | 标签
  --- | ---
  [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
  [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 
-# 9、JavaScript compiler
-## 9.1 Babel
+# 10、JavaScript compiler
+## 10.1 Babel
  名称 | 标签
  --- | ---
  [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
  [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
 
-# 10、Interview Questions
+# 11、Interview Questions
 
 名称 | 标签
  --- | ---
