@@ -112,8 +112,10 @@
 
  
 # 6、前端应用平台
+
 名称 | 标签
 --- | ---
+[浏览器工作原理](https://github.com/yaoningvital/blog/issues/97) |`浏览器`
 [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信公众号开发 `
 [微信嵌入页面V1.2.2-debug总结](https://github.com/yaoningvital/blog/issues/19) | `微信公众号开发 `
 [微信公众号支付和H5支付开发总结](https://github.com/yaoningvital/blog/issues/28) | `微信公众号开发 `
@@ -146,6 +148,7 @@
 --- | ---
 [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
 [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
+
 
 # 11、Interview Questions
 
