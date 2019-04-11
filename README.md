@@ -81,7 +81,7 @@
 
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
-&nbsp; | `React Redux ` |  &nbsp; | `React Redux `
+[Why Use React Redux?](https://github.com/yaoningvital/blog/issues/92) | `React Redux ` |  &nbsp; | `React Redux `
 
 
 ## 3.2 Flux
