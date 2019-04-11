@@ -26,10 +26,10 @@
 
 # 3、UI Framework
 ## 3.1 Vue
-### 3.1.1 Vue  **_todo_**
+### 3.1.1 Vue  
 名称 | 标签
 --- | ---
-[Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
+[Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  **_todo_**
 [在Vue的项目中创建自己的组件，上传到npm，并下载使用的步骤](https://github.com/yaoningvital/blog/issues/35) | ` Vue ` `@Vue/cli 3`
  
  ### 3.1.2 Vue的UI组件库
