@@ -1,13 +1,13 @@
 # blog-前端学习笔记
 
 # 1、CSS
-**flex**
 
 名称 | 标签
  --- | ---
+ &nbsp; | `flex`
 
 # 2、JavaScript原生
- 名称 | 标签
+名称 | 标签
  --- | ---
 [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
 [“财务看板”项目中Promise的应用](https://github.com/yaoningvital/blog/issues/40) | promise
@@ -18,16 +18,16 @@
 
 
 # 3、UI Framework
-  ## 3.1 Vue
-  ### 3.1.1 Vue
-   名称 | 标签
- --- | ---
- [Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
- [在Vue的项目中创建自己的组件，上传到npm，并下载使用的步骤](https://github.com/yaoningvital/blog/issues/35) | ` Vue ` `@Vue/cli 3`
+## 3.1 Vue
+### 3.1.1 Vue
+名称 | 标签
+--- | ---
+[Vue.js学习笔记](https://github.com/yaoningvital/blog/issues/29) | ` Vue `
+[在Vue的项目中创建自己的组件，上传到npm，并下载使用的步骤](https://github.com/yaoningvital/blog/issues/35) | ` Vue ` `@Vue/cli 3`
  
  ### 3.1.2 Vue的UI组件库
  #### 3.1.2.1 Element
-   名称 | 文件 | 脚本 | 内容
+ 名称 | 文件 | 脚本 | 内容
  --- | --- | --- | ---
  element源码分析 | package.json  scripts| build:file | [node build/bin/iconInit.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
  element源码分析 | package.json  scripts| build:file | [node build/bin/build-entry.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
@@ -116,34 +116,34 @@
 [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/33) | `H5跨平台`  `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android` `H5`
 
 # 7、Node.js
- 名称 | 标签
- --- | ---
- [《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
+名称 | 标签
+--- | ---
+[《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
 # 8、管理工具
- 名称 | 标签
- --- | ---
- [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) |`包管理工具` ` npm `
- [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
- [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
+名称 | 标签
+--- | ---
+[安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) |`包管理工具` ` npm `
+[windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
+[用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 
 # 9、构建工具
- 名称 | 标签
- --- | ---
- [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
- [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
+名称 | 标签
+--- | ---
+[Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
+[webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 
 # 10、JavaScript compiler
 ## 10.1 Babel
- 名称 | 标签
- --- | ---
- [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
- [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
+名称 | 标签
+--- | ---
+[babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
+[babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
 
 # 11、Interview Questions
 
 名称 | 标签
- --- | ---
- [Advanced Front-end Interview Questions](https://github.com/yaoningvital/blog/issues/94) |`babel`
+--- | ---
+[Advanced Front-end Interview Questions](https://github.com/yaoningvital/blog/issues/94) |`babel`
 
 
