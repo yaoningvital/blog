@@ -11,7 +11,7 @@
 名称 | 标签
  --- | ---
 [let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 `
-[Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `
+[Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 ` todo
 
 名称 | 标签
  --- | ---
