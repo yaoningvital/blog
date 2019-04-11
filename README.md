@@ -11,7 +11,7 @@
 [Web Components](https://github.com/yaoningvital/blog/issues/80) | `Web Components`
 
 
-# 2、前端框架
+# 2、UI Framework
   ## 2.1 Vue
   ### 2.1.1 Vue
    名称 | 标签
