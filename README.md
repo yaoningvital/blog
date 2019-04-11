@@ -11,6 +11,7 @@
 名称 | 标签
  --- | ---
 [let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 `
+[Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `
 
 名称 | 标签
  --- | ---
@@ -20,6 +21,7 @@
 [关于 prototype、\_\_proto\_\_、constructor及class的继承](https://github.com/yaoningvital/blog/issues/67) | 原型链
 [RegExp.prototype.test()](https://github.com/yaoningvital/blog/issues/68) | RegExp
 [Web Components](https://github.com/yaoningvital/blog/issues/80) | `Web Components`
+
 
 
 # 3、UI Framework
