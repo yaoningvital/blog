@@ -115,7 +115,11 @@
 
 名称 | 标签
 --- | ---
-[浏览器工作原理](https://github.com/yaoningvital/blog/issues/97) |`浏览器`  **_todo_**
+[Critical Rendering Path](https://github.com/yaoningvital/blog/issues/97) |`浏览器`  `渲染`   
+[Constructing the Object Model](https://github.com/yaoningvital/blog/issues/98) |`浏览器`   `渲染` 
+
+名称 | 标签
+--- | ---
 [对微信开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信公众号开发 `
 [微信嵌入页面V1.2.2-debug总结](https://github.com/yaoningvital/blog/issues/19) | `微信公众号开发 `
 [微信公众号支付和H5支付开发总结](https://github.com/yaoningvital/blog/issues/28) | `微信公众号开发 `
