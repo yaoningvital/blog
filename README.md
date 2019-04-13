@@ -94,7 +94,9 @@
 
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
-[Why Use React Redux?](https://github.com/yaoningvital/blog/issues/93) | `React Redux ` |  &nbsp; | `React Redux `
+[Why Use React Redux?](https://github.com/yaoningvital/blog/issues/93) | `React Redux ` |  [connect()](https://github.com/yaoningvital/blog/issues/106) | `React Redux `
+[Provider](https://github.com/yaoningvital/blog/issues/107) | `React Redux ` |  [connectAdvanced()](https://github.com/yaoningvital/blog/issues/108) | `React Redux `
+
 
 
 ## 4.2 Flux
