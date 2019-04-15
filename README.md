@@ -37,25 +37,69 @@
 --- | --- | --- | --- | --- | --- 
 [Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
  
- ### 3.1.2 Vue的UI组件库
- #### 3.1.2.1 Element
- 名称 | 文件 | 脚本 | 内容
- --- | --- | --- | ---
- element源码分析 | package.json  scripts| build:file | [node build/bin/iconInit.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
- element源码分析 | package.json  scripts| build:file | [node build/bin/build-entry.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
- element源码分析 | package.json  scripts| build:file | [node build/bin/i18n.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/38) 
- element源码分析 | package.json  scripts| build:file | [node build/bin/version.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/39) 
- element源码分析 | package.json  scripts| build:theme | [node build/bin/gen-cssfile 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/41) 
- element源码分析 | package.json  scripts| build:theme | [gulp build --gulpfile packages/theme-chalk/gulpfile.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/42) 
- element源码分析 | package.json  scripts| build:theme | [cp-cli packages/theme-chalk/lib lib/theme-chalk 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/43) 
- element源码分析 | package.json  scripts| build:utils | [cross-env BABEL_ENV=utils babel src --out-dir lib --ignore src/index.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/45) 
- element源码分析 | package.json  scripts| build:umd | [node build/bin/build-locale.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/46) 
- element源码分析 | package.json  scripts| clean | [rimraf lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/51) 
- element源码分析 | package.json  scripts| clean | [rimraf packages/\*/lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/52) 
- element源码分析 | package.json  scripts| clean | [rimraf test/\*\*\/coverage 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/53) 
- element源码分析 | package.json  scripts| deploy:build | [npm run build:file 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/54) 
- element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=production webpack --config build/webpack.demo.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/55) 
- element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
+**Components In-Depth**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+**Transitions & Animation**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+**Reusability & Composition**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+**Tooling**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+**Scaling Up**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+
+**Internals**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+**Meta**
+
+ 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
+
+### 3.1.2 Vue的UI组件库
+#### 3.1.2.1 Element
+名称 | 文件 | 脚本 | 内容
+--- | --- | --- | ---
+element源码分析 | package.json  scripts| build:file | [node build/bin/iconInit.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/36) 
+element源码分析 | package.json  scripts| build:file | [node build/bin/build-entry.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/37) 
+element源码分析 | package.json  scripts| build:file | [node build/bin/i18n.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/38) 
+element源码分析 | package.json  scripts| build:file | [node build/bin/version.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/39) 
+element源码分析 | package.json  scripts| build:theme | [node build/bin/gen-cssfile 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/41) 
+element源码分析 | package.json  scripts| build:theme | [gulp build --gulpfile packages/theme-chalk/gulpfile.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/42) 
+element源码分析 | package.json  scripts| build:theme | [cp-cli packages/theme-chalk/lib lib/theme-chalk 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/43) 
+element源码分析 | package.json  scripts| build:utils | [cross-env BABEL_ENV=utils babel src --out-dir lib --ignore src/index.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/45) 
+element源码分析 | package.json  scripts| build:umd | [node build/bin/build-locale.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/46) 
+element源码分析 | package.json  scripts| clean | [rimraf lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/51) 
+element源码分析 | package.json  scripts| clean | [rimraf packages/\*/lib 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/52) 
+element源码分析 | package.json  scripts| clean | [rimraf test/\*\*\/coverage 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/53) 
+element源码分析 | package.json  scripts| deploy:build | [npm run build:file 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/54) 
+element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=production webpack --config build/webpack.demo.js 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/55) 
+element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
  
 #### 3.1.2.2 Vux
 名称 | 标签
