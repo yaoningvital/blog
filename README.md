@@ -183,6 +183,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [微信嵌入页面V1.2.2-debug总结](https://github.com/yaoningvital/blog/issues/19) | `微信公众号开发 `
 [微信公众号支付和H5支付开发总结](https://github.com/yaoningvital/blog/issues/28) | `微信公众号开发 `
 [对微信小程序开发的总结](https://github.com/yaoningvital/blog/issues/18) | `微信小程序开发 `
+[几种微信支付方式的比较](https://github.com/yaoningvital/blog/issues/115) | `微信支付 `
 [对支付宝小程序开发的总结](https://github.com/yaoningvital/blog/issues/18) | `支付宝小程序开发 `
 [uni-app](https://github.com/yaoningvital/blog/issues/34) | ` uni-app ` `跨平台应用前端框架`
 [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/33) | `H5跨平台`  `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android` `H5`
