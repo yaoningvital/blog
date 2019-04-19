@@ -36,7 +36,10 @@
  名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
 [用vue-cli脚手架搭建vue项目](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [Introduction](https://github.com/yaoningvital/blog/issues/112) | ` Vue `  | [Creating a Vue Instance](https://github.com/yaoningvital/blog/issues/113) | ` Vue `  
- [Vue Instance Lifecycle](https://github.com/yaoningvital/blog/issues/114) | ` Vue `  | [Template Syntax](https://github.com/yaoningvital/blog/issues/116) | ` Vue `  | [Computed Properties and Watchers](https://github.com/yaoningvital/blog/issues/117) | ` Vue `  
+[Vue Instance Lifecycle](https://github.com/yaoningvital/blog/issues/114) | ` Vue `  | [Template Syntax](https://github.com/yaoningvital/blog/issues/116) | ` Vue `  | [Computed Properties and Watchers](https://github.com/yaoningvital/blog/issues/117) | ` Vue `  
+[Class and Style Bindings](https://github.com/yaoningvital/blog/issues/118) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/116) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/117) | ` Vue `  
+
+
 
 **Components In-Depth**
 
