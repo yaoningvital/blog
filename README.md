@@ -45,7 +45,7 @@
 
  名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+[Component Registration](https://github.com/yaoningvital/blog/issues/124) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
 
 **Transitions & Animation**
 
