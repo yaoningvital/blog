@@ -203,6 +203,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) |`包管理工具` ` npm `
 [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
 [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
+[git command](https://github.com/yaoningvital/blog/issues/128) | `代码管理工具` ` git `
 
 # 9、构建工具
 名称 | 标签
