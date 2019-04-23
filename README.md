@@ -112,8 +112,8 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux`
 
 ### 3.1.3 Vue's Plugins
-
 **Vue i18n**
+
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
 [](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `Vue i18n` 
