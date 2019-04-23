@@ -116,7 +116,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `Vue i18n` 
+[Getting Started](https://github.com/yaoningvital/blog/issues/130) | `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | `Vue i18n` 
  
 ## 3.2 React
 ### 3.2.1 React
