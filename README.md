@@ -4,7 +4,7 @@
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
  --- | --- |  --- | --- |  --- | --- | 
- [Media Queries](https://github.com/yaoningvital/blog/issues/128) | `Media queries` | [](https://github.com/yaoningvital/blog/issues/95) | `Media queries` | [](https://github.com/yaoningvital/blog/issues/95) | `Media queries` | 
+ [Media Queries](https://github.com/yaoningvital/blog/issues/129) | `Media Queries` | [](https://github.com/yaoningvital/blog/issues/95) | `Media Queries` | [](https://github.com/yaoningvital/blog/issues/95) | `Media Queries` | 
 
 # 2、JavaScript原生
 
