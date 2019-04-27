@@ -12,10 +12,11 @@
 
 # 2、JavaScript原生
 
-名称 | 标签
- --- | ---
-[let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 `
-[Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `  **_todo_**
+名称 | 标签 | 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- | --- | --- 
+[let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 ` | [Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `  **_todo_** | [web中实现pdf下载、预览、打印](https://github.com/yaoningvital/blog/issues/136) | ` pdf ` `web preview` `printing`  `pdfmake`
+
+
 
 名称 | 标签
  --- | ---
