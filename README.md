@@ -52,7 +52,7 @@
  名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
 [Component Registration](https://github.com/yaoningvital/blog/issues/124) | ` Vue `  | [Props](https://github.com/yaoningvital/blog/issues/125) | ` Vue `  | [Custom Events](https://github.com/yaoningvital/blog/issues/126) | ` Vue `  
-[Slots](https://github.com/yaoningvital/blog/issues/127) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/125) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/126) | ` Vue `  
+[Slots](https://github.com/yaoningvital/blog/issues/127) | ` Vue `  | [Dynamic & Async Components](https://github.com/yaoningvital/blog/issues/137) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/126) | ` Vue `  
 
 **Transitions & Animation**
 
