@@ -157,16 +157,18 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Advanced Tutorial - Middleware](https://github.com/yaoningvital/blog/issues/92) | ` Redux ` | [](https://github.com/yaoningvital/blog/issues/90) | ` Redux ` |  [](https://github.com/yaoningvital/blog/issues/91) | ` Redux ` 
 
 
-
 **React Redux**
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
 [Why Use React Redux?](https://github.com/yaoningvital/blog/issues/93) | `React Redux ` |  [connect()](https://github.com/yaoningvital/blog/issues/106) | `React Redux ` | [Provider](https://github.com/yaoningvital/blog/issues/107) | `React Redux ` 
 
+## 4.2 Vuex
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
+&nbsp; | ` Vuex ` |  &nbsp; | ` Vuex `
 
-
-## 4.2 Flux
+## 4.3 Flux
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 &nbsp; | ` Flux ` |  &nbsp; | ` Flux `
