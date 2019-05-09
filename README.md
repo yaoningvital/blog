@@ -138,7 +138,14 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [The Component Lifecycle](https://github.com/yaoningvital/blog/issues/81) | ` React ` | [Introducing Hooks](https://github.com/yaoningvital/blog/issues/82) | ` React ` | [Using the State Hook](https://github.com/yaoningvital/blog/issues/108) | ` React ` 
 [Using the Effect Hook](https://github.com/yaoningvital/blog/issues/109) | ` React ` | [Rules of Hooks](https://github.com/yaoningvital/blog/issues/110) | ` React ` | [](https://github.com/yaoningvital/blog/issues/108) | ` React ` 
 
-### 3.2.2 React的UI组件库
+
+### 3.2.2 React兼容性处理
+名称 | 标签
+--- | ---
+[关于react在ie中的兼容](https://github.com/yaoningvital/blog/issues/140) | ` react兼容性 `
+
+
+### 3.2.3 React的UI组件库
 名称 | 标签
 --- | ---
 [在react中配置UI库'antd'和'antd-mobile'的按需加载](https://github.com/yaoningvital/blog/issues/69) | ` Ant Design Mobile `
