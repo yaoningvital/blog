@@ -226,6 +226,8 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | `包管理工具` ` nvm `
 [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) | `代码管理工具` ` git `
 [git command](https://github.com/yaoningvital/blog/issues/128) | `代码管理工具` ` git `
+[gerrit中，在开发分支开发完成后，再合并到master分支，并推送到origin/master的方法](https://github.com/yaoningvital/blog/issues/141) | `代码管理工具` ` git ` `gerrit`
+
 
 # 9、构建工具
 名称 | 标签
