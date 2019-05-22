@@ -243,6 +243,8 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [用git来进行项目部署的操作步骤](https://github.com/yaoningvital/blog/issues/17) |  ` git `
 [git command](https://github.com/yaoningvital/blog/issues/128) | ` git `
 [gerrit中，push时提示'! [remote rejected]   HEAD -> refs/for/master (no new changes)'的解决办法](https://github.com/yaoningvital/blog/issues/141) | ` git ` `gerrit`
+[`git add .` 时提示'warning: LF will be replaced by CRLF in XXXX. The file will have its original line endings in your working directory' ](https://github.com/yaoningvital/blog/issues/144) | ` git `
+
 
 
 # 9、构建工具
