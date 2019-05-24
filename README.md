@@ -240,7 +240,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) | ` npm `
 [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | ` nvm `
-[windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | ` nvm `
+[npm-semver](https://github.com/yaoningvital/blog/issues/146) | ` npm ` **todo**
 
 
 **git**
