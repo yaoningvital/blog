@@ -162,7 +162,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ### 3.3.1 Angular
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Angular - Tutorial](https://github.com/yaoningvital/blog/issues/145) | ` Angular ` |  [](https://github.com/yaoningvital/blog/issues/57) | ` Angular ` | [](https://github.com/yaoningvital/blog/issues/62) | ` Angular ` 
+[Tutorial](https://github.com/yaoningvital/blog/issues/145) | ` Angular ` |  [Tutorial-0-Bootstrapping](https://github.com/yaoningvital/blog/issues/147) | ` Angular ` | [](https://github.com/yaoningvital/blog/issues/62) | ` Angular ` 
 
 # 4、 状态管理
 ## 4.1 Redux
