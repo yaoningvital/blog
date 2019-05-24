@@ -162,7 +162,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ### 3.3.1 Angular
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[](https://github.com/yaoningvital/blog/issues/30) | ` Angular ` |  ](https://github.com/yaoningvital/blog/issues/57) | ` Angular ` | [](https://github.com/yaoningvital/blog/issues/62) | ` Angular ` 
+[Angular - Tutorial](https://github.com/yaoningvital/blog/issues/145) | ` Angular ` |  [](https://github.com/yaoningvital/blog/issues/57) | ` Angular ` | [](https://github.com/yaoningvital/blog/issues/62) | ` Angular ` 
 
 # 4、 状态管理
 ## 4.1 Redux
@@ -239,6 +239,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 名称 | 标签
 --- | ---
 [安装淘宝镜像之后使用cnpm还是提示“cnpm”不是内部或外部命令](https://github.com/yaoningvital/blog/issues/32) | ` npm `
+[windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | ` nvm `
 [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | ` nvm `
 
 
