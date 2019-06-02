@@ -22,7 +22,7 @@
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 [let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 ` | [Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `  **_todo_** 
-[web中实现pdf下载、预览、打印](https://github.com/yaoningvital/blog/issues/136) | `pdfmake` | [](https://github.com/yaoningvital/blog/issues/136) | 
+[web中实现pdf下载、预览、打印](https://github.com/yaoningvital/blog/issues/136) | `pdfmake` | [用scrollLeft实现水平滑动](https://github.com/yaoningvital/blog/issues/148) | 
 
 
 
