@@ -67,7 +67,7 @@
 
  名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Enter/Leave & List Transitions](https://github.com/yaoningvital/blog/issues/139) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+[Enter/Leave & List Transitions](https://github.com/yaoningvital/blog/issues/139) | ` Vue `  | [Vue - State Transitions](https://github.com/yaoningvital/blog/issues/150) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
 
 **Reusability & Composition**
 
