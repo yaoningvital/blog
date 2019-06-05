@@ -65,15 +65,16 @@
 
 **Transitions & Animation**
 
- 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- | --- | --- 
-[Enter/Leave & List Transitions](https://github.com/yaoningvital/blog/issues/139) | ` Vue `  | [State Transitions](https://github.com/yaoningvital/blog/issues/150) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+ 名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
+[Enter/Leave & List Transitions](https://github.com/yaoningvital/blog/issues/139) | ` Vue `  | [State Transitions](https://github.com/yaoningvital/blog/issues/150) | ` Vue `  
 
 **Reusability & Composition**
 
  名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+[Mixins](https://github.com/yaoningvital/blog/issues/152) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+
 
 **Tooling**
 
