@@ -25,7 +25,7 @@
 --- | --- | --- | --- 
 [let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 ` | [Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `  **_todo_** 
 [web中实现pdf下载、预览、打印](https://github.com/yaoningvital/blog/issues/136) | `pdfmake` | [用scrollLeft实现水平滑动](https://github.com/yaoningvital/blog/issues/148) | `scrollLeft`
-
+[关于class中super的指向](https://github.com/yaoningvital/blog/issues/153) | `class` `super` | [](https://github.com/yaoningvital/blog/issues/148) | 
 
 
 名称 | 标签
