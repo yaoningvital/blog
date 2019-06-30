@@ -73,7 +73,7 @@
 
  名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Mixins](https://github.com/yaoningvital/blog/issues/152) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
+[Mixins](https://github.com/yaoningvital/blog/issues/152) | ` Vue `  | [Custom Directives](https://github.com/yaoningvital/blog/issues/154) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
 
 
 **Tooling**
