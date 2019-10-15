@@ -170,7 +170,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ## 3.4 各UI框架的比较
 名称 | 标签
 --- | ---
-[Vue和React的异同点](https://github.com/yaoningvital/blog/issues/69) | ` vue ` `react`
+[Vue和React的异同点](https://github.com/yaoningvital/blog/issues/156) | ` vue ` `react`
 
 # 4、 状态管理
 ## 4.1 Redux
