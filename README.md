@@ -173,7 +173,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Vue和React的异同点](https://github.com/yaoningvital/blog/issues/156) | ` vue ` `react`
 [Vue和AngularJS(Angular 1)的比较](https://github.com/yaoningvital/blog/issues/157) | ` vue ` `Angular`
 [Vue和Angular（Angular2）的比较](https://github.com/yaoningvital/blog/issues/158) | ` vue ` `Angular2`
-
+[Vue和Ember、Knockout、Polymer、Riot的比较](https://github.com/yaoningvital/blog/issues/159) | `vue`
 
 # 4、 状态管理
 ## 4.1 Redux
