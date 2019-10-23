@@ -127,12 +127,11 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux`
 
-### 3.1.3 Vue's Plugins
-**Vue i18n**
+### 3.1.3 Vue CLI (@vue/cli)
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Getting Started](https://github.com/yaoningvital/blog/issues/130) | `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | `Vue i18n` | [](https://github.com/yaoningvital/blog/issues/37) | `Vue i18n` 
+[Vue CLI -- Overview](https://github.com/yaoningvital/blog/issues/161) | `@vue/cli` | [](https://github.com/yaoningvital/blog/issues/37) | `@vue/cli` | [](https://github.com/yaoningvital/blog/issues/37) | `@vue/cli` 
  
 ## 3.2 React
 ### 3.2.1 React
