@@ -149,10 +149,10 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Using the Effect Hook](https://github.com/yaoningvital/blog/issues/109) | ` React ` | [Rules of Hooks](https://github.com/yaoningvital/blog/issues/110) | ` React ` | [](https://github.com/yaoningvital/blog/issues/108) | ` React ` 
 
 
-### 3.2.2 React兼容性处理
-名称 | 标签
---- | ---
-[关于react在ie中的兼容](https://github.com/yaoningvital/blog/issues/140) | ` react兼容性 `
+### 3.2.2 React使用常见问题
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
+[关于react在ie中的兼容](https://github.com/yaoningvital/blog/issues/140) | ` react兼容性 ` | [react项目，部署在二级目录下，需要做的配置](https://github.com/yaoningvital/blog/issues/160) | `react`
 
 
 ### 3.2.3 React的UI组件库
