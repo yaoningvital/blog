@@ -76,32 +76,6 @@
 [Mixins](https://github.com/yaoningvital/blog/issues/152) | ` Vue `  | [Custom Directives](https://github.com/yaoningvital/blog/issues/154) | ` Vue `  | [Render Functions & JSX](https://github.com/yaoningvital/blog/issues/155) | ` Vue `  
 
 
-**Tooling**
-
- 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- | --- | --- 
-[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
-
-**Scaling Up**
-
- 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- | --- | --- 
-[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
-
-
-**Internals**
-
- 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- | --- | --- 
-[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
-
-**Meta**
-
- 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- | --- | --- 
-[Installation](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  | [](https://github.com/yaoningvital/blog/issues/29) | ` Vue `  
-
-
 ### 3.1.2 Vue的UI组件库
 #### 3.1.2.1 Element
 名称 | 文件 | 脚本 | 内容
@@ -131,7 +105,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- | --- | --- 
-[Vue CLI -- Overview](https://github.com/yaoningvital/blog/issues/161) | `@vue/cli` | [](https://github.com/yaoningvital/blog/issues/37) | `@vue/cli` | [](https://github.com/yaoningvital/blog/issues/37) | `@vue/cli` 
+[Vue CLI -- Overview](https://github.com/yaoningvital/blog/issues/161) | `@vue/cli` | [Vue打包之后的dist文件，如何本地预览](https://github.com/yaoningvital/blog/issues/162) | `@vue/cli` | [](https://github.com/yaoningvital/blog/issues/37) | `@vue/cli` 
  
 ## 3.2 React
 ### 3.2.1 React
