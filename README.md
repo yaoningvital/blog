@@ -97,9 +97,9 @@ element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=
 element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
  
 #### 3.1.2.2 Vux
-名称 | 标签
---- | ---
-[vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux`
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | ---
+[vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux` | [Vuex--Core Concepts](https://github.com/yaoningvital/blog/issues/163) | `Vuex`
 
 ### 3.1.3 Vue CLI (@vue/cli)
 
