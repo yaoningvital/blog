@@ -97,9 +97,9 @@ element源码分析 | package.json  scripts| deploy:build | [cross-env NODE_ENV=
 element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.io>>examples/element-ui/CNAME 脚本具体做了些什么](https://github.com/yaoningvital/blog/issues/56)
  
 #### 3.1.2.2 Vux
-名称 | 标签 | 名称 | 标签 
---- | --- | --- | ---
-[vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux` | [Vuex--Core Concepts](https://github.com/yaoningvital/blog/issues/163) | `Vuex`
+名称 | 标签 
+--- | --- 
+[vux源码分析](https://github.com/yaoningvital/blog/issues/37) | ` Vue ` `UI组件库` `vux` 
 
 ### 3.1.3 Vue CLI (@vue/cli)
 
@@ -107,6 +107,12 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | --- | --- | --- | --- | --- 
 [Vue CLI -- Overview](https://github.com/yaoningvital/blog/issues/161) | `@vue/cli` | [Vue打包之后的dist文件，如何本地预览](https://github.com/yaoningvital/blog/issues/162) | `@vue/cli` | [](https://github.com/yaoningvital/blog/issues/37) | `@vue/cli` 
  
+### 3.1.4 Vuex
+
+名称 | 标签 | 名称 | 标签 
+--- | --- | --- | --- 
+ [Vuex--Core Concepts](https://github.com/yaoningvital/blog/issues/163) | `Vuex` |  [](https://github.com/yaoningvital/blog/issues/163) | `Vuex`
+
 ## 3.2 React
 ### 3.2.1 React
 名称 | 标签 | 名称 | 标签 | 名称 | 标签 
