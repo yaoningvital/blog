@@ -111,7 +111,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
- [Vuex--Core Concepts](https://github.com/yaoningvital/blog/issues/163) | `Vuex` |  [](https://github.com/yaoningvital/blog/issues/163) | `Vuex`
+ [Vuex--state、getters、mutations、actions的定义和调用](https://github.com/yaoningvital/blog/issues/163) | `Vuex` |  [](https://github.com/yaoningvital/blog/issues/163) | `Vuex`
 
 ## 3.2 React
 ### 3.2.1 React
