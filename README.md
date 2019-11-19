@@ -10,7 +10,7 @@
 [Using Media Queries for Accessibility](https://github.com/yaoningvital/blog/issues/132) | `Media Queries` | [Using media queries](https://github.com/yaoningvital/blog/issues/133) | `Media Queries` 
 [@import](https://github.com/yaoningvital/blog/issues/134) | `Media Queries` | [@media](https://github.com/yaoningvital/blog/issues/135) | `Media Queries` 
 [transition、transform、animation](https://github.com/yaoningvital/blog/issues/149) | `transition` | [web页面在iOS手机的浏览器中上下滑动卡顿的问题](https://github.com/yaoningvital/blog/issues/151) |  
-[容器内两部分，一部分固定宽度，另一部分自动占满剩余宽度的方法](https://github.com/yaoningvital/blog/issues/166) | `flex` | [](https://github.com/yaoningvital/blog/issues/149) | ``
+[容器内两部分，一部分固定宽度，另一部分自动占满剩余宽度的方法](https://github.com/yaoningvital/blog/issues/166) | `flex` | [一个旋转的动画](https://github.com/yaoningvital/blog/issues/167) | `animation` `transform` `rotate`
 
  
  **gulp-sass**
