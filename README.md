@@ -223,7 +223,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 # 7、Node.js
 名称 | 标签
 --- | ---
-[《Node.js权威指南》学习笔记](https://github.com/yaoningvital/blog/issues/27) | ` Node `
+[nodejs安装及环境配置](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 
 # 8、管理工具
 
