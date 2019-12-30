@@ -264,7 +264,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ## 11.1 WebSocket
 名称 | 标签
 --- | ---
-[WebSocket学习资源](https://github.com/yaoningvital/blog/issues/94) |`WebSocket`
+[WebSocket学习资源](https://github.com/yaoningvital/blog/issues/170) |`WebSocket`
 
 # 12、Interview Questions
 
