@@ -37,7 +37,7 @@
 [几种模块化规范（AMD、CMD、CommonJS、UMD、ES6的Module语法）的介绍](https://github.com/yaoningvital/blog/issues/50) | JS模块化
 [关于 prototype、\_\_proto\_\_、constructor及class的继承](https://github.com/yaoningvital/blog/issues/67) | 原型链
 [RegExp.prototype.test()](https://github.com/yaoningvital/blog/issues/68) | RegExp
-[Web Components](https://github.com/yaoningvital/blog/issues/80) | `Web Components`  **_todo_**
+[import命令、import()、require()的比较](https://github.com/yaoningvital/blog/issues/171) | `import命令` `import()` `require()`
 
 
 
