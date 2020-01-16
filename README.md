@@ -261,6 +261,12 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
 [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
 
+## 10.2 TypeScript
+名称 | 标签
+--- | ---
+[](https://github.com/yaoningvital/blog/issues/) |`ts`
+
+
 # 11、通信协议
 ## 11.1 WebSocket
 名称 | 标签
