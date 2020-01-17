@@ -265,6 +265,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 名称 | 标签
 --- | ---
 [error TS1056: Accessors are only available when targeting ECMAScript 5 and higher.](https://github.com/yaoningvital/blog/issues/173) |`ts`
+[在React中添加TypeScript](https://github.com/yaoningvital/blog/issues/174) | `ts`
 
 
 # 11、通信协议
