@@ -267,8 +267,9 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [对TypeScript的理解](https://github.com/yaoningvital/blog/issues/177) | `ts`
 [error TS1056: Accessors are only available when targeting ECMAScript 5 and higher.](https://github.com/yaoningvital/blog/issues/173) |`ts`
-[如何在React中添加TypeScript ？](https://github.com/yaoningvital/blog/issues/174) | `ts`
 [使用react、webpack、typescript，手动搭建一个项目](https://github.com/yaoningvital/blog/issues/176) | `ts`
+[如何在React中添加TypeScript ？](https://github.com/yaoningvital/blog/issues/174) | `ts`
+[如何在一个已经存在的 React/Babel/Webpack 项目中添加TypeScript ？](https://github.com/yaoningvital/blog/issues/178) | `ts`
 
 
 # 11、通信协议
