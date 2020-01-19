@@ -236,6 +236,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [windows上安装nvm](https://github.com/yaoningvital/blog/issues/31) | ` nvm `
 [npm-semver](https://github.com/yaoningvital/blog/issues/146) | ` npm ` **todo**
 [npm init](https://github.com/yaoningvital/blog/issues/175) | `npm init`
+[用npm查看包的版本](https://github.com/yaoningvital/blog/issues/180) | `npm view` `npm ls`
 
 
 **git**
