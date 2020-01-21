@@ -272,6 +272,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [如何在React中添加TypeScript ？](https://github.com/yaoningvital/blog/issues/174) | `ts`
 [如何在一个已经存在的 React/Babel/Webpack 项目中添加TypeScript ？](https://github.com/yaoningvital/blog/issues/178) | `ts`
 [用TypeScript新建一个React项目的示例（React / TypeScript / Redux）](https://github.com/yaoningvital/blog/issues/179) | `ts`
+[Interfaces](https://github.com/yaoningvital/blog/issues/181) | `ts`
 
 
 # 11、通信协议
