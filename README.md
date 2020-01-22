@@ -275,6 +275,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Interfaces](https://github.com/yaoningvital/blog/issues/181) | `ts`
 [Classes](https://github.com/yaoningvital/blog/issues/182) | `ts` `class`
 [TypeScript中 typeof 的含义](https://github.com/yaoningvital/blog/issues/183) | `ts` `typeof`
+[Functions](https://github.com/yaoningvital/blog/issues/184) | `ts` `function`
 
 
 # 11、通信协议
