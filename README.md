@@ -274,6 +274,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [用TypeScript新建一个React项目的示例（React / TypeScript / Redux）](https://github.com/yaoningvital/blog/issues/179) | `ts`
 [Interfaces](https://github.com/yaoningvital/blog/issues/181) | `ts`
 [Classes](https://github.com/yaoningvital/blog/issues/182) | `ts` `class`
+[TypeScript中 typeof 的含义](https://github.com/yaoningvital/blog/issues/183) | `ts`
 
 
 # 11、通信协议
