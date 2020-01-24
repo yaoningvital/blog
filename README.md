@@ -279,6 +279,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Generics Function 泛型函数](https://github.com/yaoningvital/blog/issues/185) | `ts` `Generics` `泛型函数`
 [Generic Classes 泛型类](https://github.com/yaoningvital/blog/issues/186) | `ts` `Generics` `泛型类`
 [Generic Constraints 泛型约束](https://github.com/yaoningvital/blog/issues/187) | `ts` `Generics` `泛型约束`
+[Enums](https://github.com/yaoningvital/blog/issues/188) | `ts` `enums` 
 
 
 # 11、通信协议
