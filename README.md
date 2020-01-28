@@ -280,6 +280,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Generic Classes 泛型类](https://github.com/yaoningvital/blog/issues/186) | `ts` `Generics` `泛型类`
 [Generic Constraints 泛型约束](https://github.com/yaoningvital/blog/issues/187) | `ts` `Generics` `泛型约束`
 [Enums](https://github.com/yaoningvital/blog/issues/188) | `ts` `enums` 
+[Type Aliases](https://github.com/yaoningvital/blog/issues/189) | `ts` `type`
 [keyof T](https://github.com/yaoningvital/blog/issues/190) | `ts` `keyof T`
 
 
