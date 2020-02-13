@@ -298,10 +298,10 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [阿里云centos服务器安装nginx](https://github.com/yaoningvital/blog/issues/192) | `nginx`
 
 # 13、Linux
-## 13.1 Linux命令
+
 名称 | 标签
 --- | ---
-[删除文件夹和文件的命令](https://github.com/yaoningvital/blog/issues/193) | `Linux`
+[常用的Linux命令](https://github.com/yaoningvital/blog/issues/193) | `Linux`
 
 # 14、Interview Questions
 
