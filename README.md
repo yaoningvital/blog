@@ -292,11 +292,12 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 # 12、阿里云服务器
 
-名称 | 名称
+名称 | 标签
 --- | ---
-[Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/191) | [阿里云centos服务器安装nginx](https://github.com/yaoningvital/blog/issues/192)
+[Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/191) | `ftp站点`
+[阿里云centos服务器安装nginx](https://github.com/yaoningvital/blog/issues/192) | `nginx`
 
-# 12、Interview Questions
+# 13、Interview Questions
 
 名称 | 标签
 --- | ---
