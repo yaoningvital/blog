@@ -294,7 +294,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 名称
 --- | ---
-[Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/94) | [Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/94)
+[Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/191) | [](https://github.com/yaoningvital/blog/issues/94)
 
 # 12、Interview Questions
 
