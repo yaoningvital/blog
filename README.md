@@ -290,6 +290,12 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [WebSocket学习资源](https://github.com/yaoningvital/blog/issues/170) |`WebSocket`
 
+# 12、阿里云服务器
+
+名称 | 名称
+--- | ---
+[Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/94) | [Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/94)
+
 # 12、Interview Questions
 
 名称 | 标签
