@@ -296,6 +296,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [Linux实例搭建FTP站点](https://github.com/yaoningvital/blog/issues/191) | `ftp站点`
 [阿里云centos服务器安装nginx](https://github.com/yaoningvital/blog/issues/192) | `nginx`
+[配置nginx.conf](https://github.com/yaoningvital/blog/issues/194) | `nginx` `nginx.conf`
 
 # 13、Linux
 
