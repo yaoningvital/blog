@@ -39,6 +39,7 @@
 [RegExp.prototype.test()](https://github.com/yaoningvital/blog/issues/68) | RegExp
 [import命令、import()、require()的比较](https://github.com/yaoningvital/blog/issues/171) | `import命令` `import()` `require()`
 [ES6模块与CommonJS模块的差异](https://github.com/yaoningvital/blog/issues/172) | `ES6模块` `CommonJS模块` 
+[touch事件的应用](https://github.com/yaoningvital/blog/issues/196) | `touch event`
 
 
 
