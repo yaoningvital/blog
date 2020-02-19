@@ -23,15 +23,14 @@
 
 # 2、JavaScript原生
 
-名称 | 标签 | 名称 | 标签 
---- | --- | --- | --- 
-[let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 ` | [Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `  **_todo_** 
-[web中实现pdf下载、预览、打印](https://github.com/yaoningvital/blog/issues/136) | `pdfmake` | [用scrollLeft实现水平滑动](https://github.com/yaoningvital/blog/issues/148) | `scrollLeft`
-[关于class中super的指向](https://github.com/yaoningvital/blog/issues/153) | `class` `super` | [找到一个深拷贝的方法](https://github.com/yaoningvital/blog/issues/164) | `深拷贝` 
-
-
 名称 | 标签
  --- | ---
+[let 和 var 的区别](https://github.com/yaoningvital/blog/issues/95) | ` ES6 `
+[Javascript实现异步编程的几种方式](https://github.com/yaoningvital/blog/issues/96) | ` ES6 `  **_todo_** 
+[web中实现pdf下载、预览、打印](https://github.com/yaoningvital/blog/issues/136) | `pdfmake` 
+[用scrollLeft实现水平滑动](https://github.com/yaoningvital/blog/issues/148) | `scrollLeft`
+[关于class中super的指向](https://github.com/yaoningvital/blog/issues/153) | `class` `super` 
+[找到一个深拷贝的方法](https://github.com/yaoningvital/blog/issues/164) | `深拷贝` 
 [H5页面调起手机相册和摄像头](https://github.com/yaoningvital/blog/issues/26) | h5调起手机相册和摄像头
 [“财务看板”项目中Promise的应用](https://github.com/yaoningvital/blog/issues/40) | promise
 [几种模块化规范（AMD、CMD、CommonJS、UMD、ES6的Module语法）的介绍](https://github.com/yaoningvital/blog/issues/50) | JS模块化
