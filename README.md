@@ -2,8 +2,6 @@
 
 # 1、CSS
 
-**CSS**
-
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
 [Media Queries](https://github.com/yaoningvital/blog/issues/129) | `Media Queries` | [Testing media queries programmatically](https://github.com/yaoningvital/blog/issues/131) | `Media Queries` 
@@ -12,14 +10,6 @@
 [transition、transform、animation](https://github.com/yaoningvital/blog/issues/149) | `transition` | [web页面在iOS手机的浏览器中上下滑动卡顿的问题](https://github.com/yaoningvital/blog/issues/151) |  
 [容器内两部分，一部分固定宽度，另一部分自动占满剩余宽度的方法](https://github.com/yaoningvital/blog/issues/166) | `flex` | [用“transform”和“animation”实现一个旋转的动画](https://github.com/yaoningvital/blog/issues/167) | `animation` `transform` `rotate`
 [用“transform”和“transition”实现一个旋转的动画](https://github.com/yaoningvital/blog/issues/169) | `transform` `transition` | []() | 
-
- 
- **gulp-sass**
- 
-名称 | 标签 | 名称 | 标签  
- --- | --- |  --- | --- 
-[构建工具为gulp的项目中，gulp serve时提示 Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (64)](https://github.com/yaoningvital/blog/issues/143) | `gulp-sass` `node-sass` | [](https://github.com/yaoningvital/blog/issues/131) | 
-
 
 # 2、JavaScript原生
 
@@ -256,6 +246,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
 [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
+[构建工具为gulp的项目中，gulp serve时提示 Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (64)](https://github.com/yaoningvital/blog/issues/143) | `gulp-sass` `node-sass` 
 
 # 10、JavaScript compiler
 ## 10.1 Babel
