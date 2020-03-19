@@ -215,7 +215,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 名称 | 标签
 --- | ---
 [node.js安装及环境配置](https://github.com/yaoningvital/blog/issues/27) | ` Node `
-[npm ERR! code EINTEGRITY](https://github.com/yaoningvital/blog/issues/27) | `npm`
+[npx搭建react项目时，命令行报错：npm ERR! code EINTEGRITY](https://github.com/yaoningvital/blog/issues/199) | `npm`
 
 # 8、管理工具
 
