@@ -229,6 +229,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [npm init](https://github.com/yaoningvital/blog/issues/175) | `npm init`
 [用npm查看包的版本](https://github.com/yaoningvital/blog/issues/180) | `npm view` `npm ls`
 [编译时总提示没安装node-sass](https://github.com/yaoningvital/blog/issues/195) | `node-sass`
+[npm install 时报错：if not defined npm_config_node_gyp ... ](https://github.com/yaoningvital/blog/issues/203) | `npm install`  `node_gyp`
 
 
 **git**
