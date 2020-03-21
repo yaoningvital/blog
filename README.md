@@ -230,6 +230,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [用npm查看包的版本](https://github.com/yaoningvital/blog/issues/180) | `npm view` `npm ls`
 [编译时总提示没安装node-sass](https://github.com/yaoningvital/blog/issues/195) | `node-sass`
 [npm install 时报错：if not defined npm_config_node_gyp ... ](https://github.com/yaoningvital/blog/issues/203) | `npm install`  `node_gyp`
+[使用npm更新npm和node的版本](https://github.com/yaoningvital/blog/issues/206) | `npm upgrade` `node upgrade use npm` 
 
 
 **git**
