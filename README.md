@@ -306,7 +306,8 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 标签
 --- | ---
-[Advanced Front-end Interview Questions](https://github.com/yaoningvital/blog/issues/94) |`babel`
+[Advanced Front-end Interview Questions](https://github.com/yaoningvital/blog/issues/94) | `interview`
 [关于科学上网的设置和坑](https://github.com/yaoningvital/blog/issues/204) | `scientific internet access`
+[一些常用的 chrome 插件](https://github.com/yaoningvital/blog/issues/205) | `chrome extensions`
 
 
