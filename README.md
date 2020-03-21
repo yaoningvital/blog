@@ -302,10 +302,11 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [常用的Linux命令](https://github.com/yaoningvital/blog/issues/193) | `Linux`
 
-# 14、Interview Questions
+# 14、Others
 
 名称 | 标签
 --- | ---
 [Advanced Front-end Interview Questions](https://github.com/yaoningvital/blog/issues/94) |`babel`
+[关于科学上网的设置和坑](https://github.com/yaoningvital/blog/issues/204) | `scientific internet access`
 
 
