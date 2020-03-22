@@ -188,7 +188,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 # 6、UMI
 名称 | 标签
 --- | ---
-[Critical Rendering Path - Overview](https://github.com/yaoningvital/blog/issues/97) |`浏览器`  `browser rendering mechanism`   
+[yarn create @umijs/umi-app 报错：文件名、目录名或卷标语法不正确](https://github.com/yaoningvital/blog/issues/207) |`yarn create @umijs/umi-app`
 
 
 # 7、前端应用平台
