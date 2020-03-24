@@ -250,6 +250,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [用https方式 git clone 项目代码时用户名和密码的问题](https://github.com/yaoningvital/blog/issues/201) | `git clone`
 [解决git 以 https 方式每次都要输入用户名密码的问题](https://github.com/yaoningvital/blog/issues/202) | `git config`
 [git submodule add时提示“projectfolder already exists in the index”](https://github.com/yaoningvital/blog/issues/208) | `git submodule add`
+[git submodule](https://github.com/yaoningvital/blog/issues/209) | `git submodule`
 
 
 # 10、构建工具
