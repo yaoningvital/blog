@@ -251,6 +251,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [解决git 以 https 方式每次都要输入用户名密码的问题](https://github.com/yaoningvital/blog/issues/202) | `git config`
 [git submodule add时提示“projectfolder already exists in the index”](https://github.com/yaoningvital/blog/issues/208) | `git submodule add`
 [git submodule](https://github.com/yaoningvital/blog/issues/209) | `git submodule`
+[Git 工具 - 子模块](https://github.com/yaoningvital/blog/issues/210) | `git submodule`
 
 
 # 10、构建工具
