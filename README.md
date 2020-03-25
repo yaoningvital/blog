@@ -253,6 +253,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [git submodule](https://github.com/yaoningvital/blog/issues/209) | `git submodule`
 [Git 工具 - 子模块](https://github.com/yaoningvital/blog/issues/210) | `git submodule`
 [关于在 Git 中删除子模块的错误处理](https://github.com/yaoningvital/blog/issues/211) | `git submodule`
+[主项目与子项目关联的总结](https://github.com/yaoningvital/blog/issues/212) | `git submodule`
 
 
 # 10、构建工具
