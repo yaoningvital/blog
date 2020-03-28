@@ -294,13 +294,13 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ## 12.1 JS代码格式规范
 名称 | 标签
 --- | ---
-[Airbnb JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/170) |`JS代码格式规范` `Airbnb`
+[Airbnb JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/213) |`JS代码格式规范` `Airbnb`
 
 ## 12.2 CSS代码格式规范
 名称 | 标签
 --- | ---
-[Airbnb CSS-in-JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/170) |`CSS代码格式规范` `Airbnb`
-[Airbnb CSS / Sass Style Guide](https://github.com/yaoningvital/blog/issues/170) |`CSS代码格式规范` `Airbnb`
+[Airbnb CSS-in-JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/214) |`CSS代码格式规范` `Airbnb`
+[Airbnb CSS / Sass Style Guide](https://github.com/yaoningvital/blog/issues/215) |`CSS代码格式规范` `Airbnb`
 
 ## 12.3 React代码格式规范
 名称 | 标签
