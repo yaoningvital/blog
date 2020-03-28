@@ -291,21 +291,14 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [keyof T](https://github.com/yaoningvital/blog/issues/190) | `ts` `keyof T`
 
 # 12、代码格式规范
-## 12.1 JS代码格式规范
+
 名称 | 标签
 --- | ---
 [Airbnb JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/213) |`JS代码格式规范` `Airbnb`
-
-## 12.2 CSS代码格式规范
-名称 | 标签
---- | ---
 [Airbnb CSS-in-JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/214) |`CSS代码格式规范` `Airbnb`
 [Airbnb CSS / Sass Style Guide](https://github.com/yaoningvital/blog/issues/215) |`CSS代码格式规范` `Airbnb`
-
-## 12.3 React代码格式规范
-名称 | 标签
---- | ---
 [Airbnb React/JSX Style Guide](https://github.com/yaoningvital/blog/issues/216) |`React代码格式规范` `Airbnb`
+
 
 # 13、通信协议
 ## 13.1 WebSocket
