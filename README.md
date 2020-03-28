@@ -305,7 +305,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ## 12.3 React代码格式规范
 名称 | 标签
 --- | ---
-[Airbnb React/JSX Style Guide](https://github.com/yaoningvital/blog/issues/170) |`React代码格式规范` `Airbnb`
+[Airbnb React/JSX Style Guide](https://github.com/yaoningvital/blog/issues/216) |`React代码格式规范` `Airbnb`
 
 # 13、通信协议
 ## 13.1 WebSocket
