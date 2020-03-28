@@ -294,6 +294,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 标签
 --- | ---
+[五种JavaScript编码规范](https://github.com/yaoningvital/blog/issues/217) |`JS代码格式规范` 
 [Airbnb JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/213) |`JS代码格式规范` `Airbnb`
 [Airbnb CSS-in-JavaScript Style Guide](https://github.com/yaoningvital/blog/issues/214) |`CSS代码格式规范` `Airbnb`
 [Airbnb CSS / Sass Style Guide](https://github.com/yaoningvital/blog/issues/215) |`CSS代码格式规范` `Airbnb`
