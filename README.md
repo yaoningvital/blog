@@ -152,7 +152,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 ## 4.1 DevExtreme
 名称 | 标签
 --- | ---
-[怎样给 DevExtreme DataGrid 的导出按钮添加显示文字](https://github.com/yaoningvital/blog/issues/156) | `DevExtreme` `DataGrid` `export button`
+[怎样给 DevExtreme DataGrid 的导出按钮添加显示文字](https://github.com/yaoningvital/blog/issues/218) | `DevExtreme` `DataGrid` `export button`
 
 # 5、 状态管理
 ## 5.1 Redux
