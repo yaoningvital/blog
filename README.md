@@ -148,8 +148,14 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Vue和Angular（Angular2）的比较](https://github.com/yaoningvital/blog/issues/158) | ` vue ` `Angular2`
 [Vue和Ember、Knockout、Polymer、Riot的比较](https://github.com/yaoningvital/blog/issues/159) | `vue`
 
-# 4、 状态管理
-## 4.1 Redux
+# 4、一些强大的UI套件(HTML5 JavaScript Component Suite)
+## 4.1 DevExtreme
+名称 | 标签
+--- | ---
+[DevExtreme DataGrid 的导出按钮不能显示文字](https://github.com/yaoningvital/blog/issues/156) | `DevExtreme` `DataGrid` `export button`
+
+# 5、 状态管理
+## 5.1 Redux
 
 **Redux**
 
@@ -167,31 +173,31 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | --- | --- | --- | --- | --- 
 [Why Use React Redux?](https://github.com/yaoningvital/blog/issues/93) | `React Redux ` |  [connect()](https://github.com/yaoningvital/blog/issues/106) | `React Redux ` | [Provider](https://github.com/yaoningvital/blog/issues/107) | `React Redux ` 
 
-## 4.2 Vuex
+## 5.2 Vuex
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 &nbsp; | ` Vuex ` |  &nbsp; | ` Vuex `
 
-## 4.3 Flux
+## 5.3 Flux
 名称 | 标签 | 名称 | 标签 
 --- | --- | --- | --- 
 &nbsp; | ` Flux ` |  &nbsp; | ` Flux `
 
 
-# 5、 路由
-## 5.1 React Router
+# 6、 路由
+## 6.1 React Router
 
 名称 | 标签 | 名称 | 标签 | 名称 | 标签  
 --- | --- | --- | --- | --- | --- 
 [Quick Start](https://github.com/yaoningvital/blog/issues/111) | ` React Router ` |  [](https://github.com/yaoningvital/blog/issues/84) | ` React Router ` | [](https://github.com/yaoningvital/blog/issues/85) | ` React Router ` 
 
-# 6、UMI
+# 7、UMI
 名称 | 标签
 --- | ---
 [yarn create @umijs/umi-app 报错：文件名、目录名或卷标语法不正确](https://github.com/yaoningvital/blog/issues/207) |`yarn create @umijs/umi-app`
 
 
-# 7、前端应用平台
+# 8、前端应用平台
 
 名称 | 标签
 --- | ---
@@ -216,13 +222,13 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [uni-app](https://github.com/yaoningvital/blog/issues/34) | ` uni-app ` `跨平台应用前端框架`
 [H5跨平台能力调研](https://github.com/yaoningvital/blog/issues/33) | `H5跨平台`  `微信小程序` `支付宝小程序` `百度小程序` `iOS` `Android` `H5`
 
-# 8、Node.js
+# 9、Node.js
 名称 | 标签
 --- | ---
 [node.js安装及环境配置](https://github.com/yaoningvital/blog/issues/27) | ` Node `
 [npx搭建react项目时，命令行报错：npm ERR! code EINTEGRITY](https://github.com/yaoningvital/blog/issues/199) | `npm`
 
-# 9、管理工具
+# 10、管理工具
 
 **npm**
 
@@ -256,21 +262,21 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [主项目与子项目关联的总结](https://github.com/yaoningvital/blog/issues/212) | `git submodule`
 
 
-# 10、构建工具
+# 11、构建工具
 名称 | 标签
 --- | ---
 [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
 [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 [构建工具为gulp的项目中，gulp serve时提示 Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (64)](https://github.com/yaoningvital/blog/issues/143) | `gulp-sass` `node-sass` 
 
-# 11、JavaScript compiler
-## 11.1 Babel
+# 12、JavaScript compiler
+## 12.1 Babel
 名称 | 标签
 --- | ---
 [babel-plugin-add-module-exports](https://github.com/yaoningvital/blog/issues/47) |`babel`
 [babel-plugin-transform-es2015-modules-umd](https://github.com/yaoningvital/blog/issues/49) |`babel` 
 
-## 11.2 TypeScript
+## 12.2 TypeScript
 名称 | 标签
 --- | ---
 [对TypeScript的理解](https://github.com/yaoningvital/blog/issues/177) | `ts`
@@ -290,7 +296,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Type Aliases](https://github.com/yaoningvital/blog/issues/189) | `ts` `type`
 [keyof T](https://github.com/yaoningvital/blog/issues/190) | `ts` `keyof T`
 
-# 12、代码格式规范
+# 13、代码格式规范
 
 名称 | 标签
 --- | ---
@@ -301,13 +307,13 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Airbnb React/JSX Style Guide](https://github.com/yaoningvital/blog/issues/216) |`React代码格式规范` `Airbnb`
 
 
-# 13、通信协议
-## 13.1 WebSocket
+# 14、通信协议
+## 14.1 WebSocket
 名称 | 标签
 --- | ---
 [WebSocket学习资源](https://github.com/yaoningvital/blog/issues/170) |`WebSocket`
 
-# 14、阿里云服务器
+# 15、阿里云服务器
 
 名称 | 标签
 --- | ---
@@ -316,13 +322,13 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [配置nginx.conf](https://github.com/yaoningvital/blog/issues/194) | `nginx` `nginx.conf`
 [在一个服务器上，同一个IP，相同端口上，nginx怎样配置以支持多个应用？](https://github.com/yaoningvital/blog/issues/198) | `nginx`
 
-# 15、Linux
+# 16、Linux
 
 名称 | 标签
 --- | ---
 [常用的Linux命令](https://github.com/yaoningvital/blog/issues/193) | `Linux`
 
-# 16、Others
+# 17、Others
 
 名称 | 标签
 --- | ---
