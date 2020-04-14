@@ -328,7 +328,13 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [常用的Linux命令](https://github.com/yaoningvital/blog/issues/193) | `Linux`
 
-# 17、Others
+# 17、Microservices
+
+名称 | 标签
+--- | ---
+[常用的Linux命令](https://github.com/yaoningvital/blog/issues/193) | `Microservices`
+
+# 18、Others
 
 名称 | 标签
 --- | ---
@@ -337,8 +343,6 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [React examination questions - Q2](https://github.com/yaoningvital/blog/issues/220) | `interview`
 [React examination questions - Q3](https://github.com/yaoningvital/blog/issues/221) | `interview`
 [React examination questions - Q4](https://github.com/yaoningvital/blog/issues/222) | `interview`
-[React examination questions - Q5](https://github.com/yaoningvital/blog/issues/223) | `interview`
-[React examination questions - Q6](https://github.com/yaoningvital/blog/issues/224) | `interview`
 [关于科学上网的设置和坑](https://github.com/yaoningvital/blog/issues/204) | `scientific internet access`
 [一些常用的 chrome 插件](https://github.com/yaoningvital/blog/issues/205) | `chrome extensions`
 
