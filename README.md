@@ -334,7 +334,13 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [Microservices](https://github.com/yaoningvital/blog/issues/223) | `Microservices`
 
-# 18、Others
+# 18、工具类插件
+
+名称 | 标签
+--- | ---
+[导出excel的 JS 插件](https://github.com/yaoningvital/blog/issues/224) | `export to excel`
+
+# 19、Others
 
 名称 | 标签
 --- | ---
