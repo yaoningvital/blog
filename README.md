@@ -29,6 +29,7 @@
 [import命令、import()、require()的比较](https://github.com/yaoningvital/blog/issues/171) | `import命令` `import()` `require()`
 [ES6模块与CommonJS模块的差异](https://github.com/yaoningvital/blog/issues/172) | `ES6模块` `CommonJS模块` 
 [touch事件的应用](https://github.com/yaoningvital/blog/issues/196) | `touch event`
+[关于字符的UTF-16编码](https://github.com/yaoningvital/blog/issues/225) | `string UTF-16`
 
 
 
