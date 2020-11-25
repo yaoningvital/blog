@@ -343,7 +343,15 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 --- | ---
 [导出excel的 JS 插件](https://github.com/yaoningvital/blog/issues/224) | `export to excel`
 
-# 19、Others
+
+
+# 19、IDE
+
+名称 | 标签
+--- | ---
+[vscode中怎样让按ctrl点某个引用之后能打开新的页签，而不是覆盖掉前一个打开的文件](https://github.com/yaoningvital/blog/issues/94) | `VSCode`
+
+# 20、Others
 
 名称 | 标签
 --- | ---
@@ -354,6 +362,3 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [React examination questions - Q4](https://github.com/yaoningvital/blog/issues/222) | `interview`
 [关于科学上网的设置和坑](https://github.com/yaoningvital/blog/issues/204) | `scientific internet access`
 [一些常用的 chrome 插件](https://github.com/yaoningvital/blog/issues/205) | `chrome extensions`
-
-
-
