@@ -349,7 +349,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 
 名称 | 标签
 --- | ---
-[vscode中怎样让按ctrl点某个引用之后能打开新的页签，而不是覆盖掉前一个打开的文件](https://github.com/yaoningvital/blog/issues/94) | `VSCode`
+[vscode中怎样让按ctrl点某个引用之后能打开新的页签，而不是覆盖掉前一个打开的文件](https://github.com/yaoningvital/blog/issues/228) | `VSCode`
 
 # 20、Others
 
