@@ -271,6 +271,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [Gulp Quick Start](https://github.com/yaoningvital/blog/issues/44) |`gulp`
 [webpack浅谈](https://github.com/yaoningvital/blog/issues/48) |`webpack`
 [构建工具为gulp的项目中，gulp serve时提示 Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (64)](https://github.com/yaoningvital/blog/issues/143) | `gulp-sass` `node-sass` 
+[webpack打包之后的文件怎样在本地跑起来](https://github.com/yaoningvital/blog/issues/229) |`webpack`
 
 # 12、JavaScript compiler
 ## 12.1 Babel
