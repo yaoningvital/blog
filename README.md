@@ -262,6 +262,7 @@ element源码分析 | package.json  scripts| deploy:build | [echo element.eleme.
 [关于在 Git 中删除子模块需要做哪些操作 及 删除中遇到的错误的处理](https://github.com/yaoningvital/blog/issues/211) | `git submodule`
 [主项目与子项目关联的总结](https://github.com/yaoningvital/blog/issues/212) | `git submodule`
 [git 放弃本地修改，强制拉取更新](https://github.com/yaoningvital/blog/issues/227) | `git`
+[Git放弃本地的修改，直接用远端的内容覆盖本地的命令](https://github.com/yaoningvital/blog/issues/231) | `git`
 
 
 
